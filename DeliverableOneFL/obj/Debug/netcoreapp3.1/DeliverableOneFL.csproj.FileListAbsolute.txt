@@ -1,0 +1,12 @@
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/bin/Debug/netcoreapp3.1/DeliverableOneFL.deps.json
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/bin/Debug/netcoreapp3.1/DeliverableOneFL.runtimeconfig.json
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/bin/Debug/netcoreapp3.1/DeliverableOneFL.runtimeconfig.dev.json
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/bin/Debug/netcoreapp3.1/DeliverableOneFL.dll
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/bin/Debug/netcoreapp3.1/DeliverableOneFL.pdb
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/obj/Debug/netcoreapp3.1/DeliverableOneFL.csprojAssemblyReference.cache
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/obj/Debug/netcoreapp3.1/DeliverableOneFL.AssemblyInfoInputs.cache
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/obj/Debug/netcoreapp3.1/DeliverableOneFL.AssemblyInfo.cs
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/obj/Debug/netcoreapp3.1/DeliverableOneFL.csproj.CoreCompileInputs.cache
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/obj/Debug/netcoreapp3.1/DeliverableOneFL.dll
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/obj/Debug/netcoreapp3.1/DeliverableOneFL.pdb
+/Users/akiichris/Documents/GrandCircus/Deliverables/DeliverableOneFL/DeliverableOneFL/obj/Debug/netcoreapp3.1/DeliverableOneFL.genruntimeconfig.cache
